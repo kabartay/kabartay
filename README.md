@@ -12,11 +12,18 @@
 - 🔭 I'm currently working as a Data Scientist Engineer
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
 
+<!--
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
 
 <!--
+Google Scholar
+INSPIRE
+other resources
+StackOverflow badge too or squize image
+-->
 
 **kabartay/kabartay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

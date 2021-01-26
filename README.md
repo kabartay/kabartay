@@ -1,5 +1,13 @@
 ### Hi, I'm Mukharbek 👋
 
+[![Linkedin: circassia](https://img.shields.io/badge/-Mukharbek%20Organokov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/circassia/)](https://www.linkedin.com/in/circassia/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)
+[![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)](https://github.com/kabartay)
+[![GitHub](https://img.shields.io/github/followers/kabartay?label=kabartay)](https://github.com/kabartay)
+[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
+[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
+![Profile views](https://gpvc.arturio.dev/kabartay)
+
 <!--
 **kabartay/kabartay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,9 +30,4 @@ Here are some ideas to get you started:
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
 
 
-[![Linkedin: circassia](https://img.shields.io/badge/-Mukharbek%20Organokov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/circassia/)](https://www.linkedin.com/in/circassia/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)
-![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)
-[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
-[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
-![Profile views](https://gpvc.arturio.dev/kabartay)
+

@@ -9,7 +9,7 @@
 ![Profile views](https://gpvc.arturio.dev/kabartay)
 
 - 📡 I'm Doctor of Philosophy in Astrophysics (Université de Strasbourg) 
-- 🔭 I'm currently working as a Data Scientist Engineer
+- 🔭 I'm currently working as a Data Scientist
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
 
 

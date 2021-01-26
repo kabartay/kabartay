@@ -12,19 +12,22 @@
 - 🔭 I'm currently working as a Data Scientist Engineer
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
 
-<!--
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
 
 <!--
+TODO
 Google Scholar
 INSPIRE
 other resources
 StackOverflow badge too or squize image
 -->
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
+
+
+
+<!--
 **kabartay/kabartay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working ...
@@ -38,10 +41,8 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=Follow)](https://twitter.com/circassia_ai)
 [![Ods.ai Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=odsai&logoColor=crimson&link=https://ods.ai/users/ae6a50f2c4fb)](https://ods.ai/users/ae6a50f2c4fb)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue-green)](https://github.com/kabartay/github-readme-stats)
-
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@circassia_ai)
 Customizable Badge
 [![Medium Badge](https://img.shields.io/badge/@circassia_ai-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
-
 [![circassia_ai StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7302404)](https://stackoverflow.com/users/7302404/circassia_ai)
 -->

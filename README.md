@@ -15,8 +15,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
-[![circassia_ai StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7302404)](https://stackoverflow.com/users/7302404/circassia_ai)
-
 
 <!--
 
@@ -37,4 +35,6 @@ Here are some ideas to get you started:
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@circassia_ai)
 Customizable Badge
 [![Medium Badge](https://img.shields.io/badge/@circassia_ai-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
+
+[![circassia_ai StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7302404)](https://stackoverflow.com/users/7302404/circassia_ai)
 -->

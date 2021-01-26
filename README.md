@@ -8,11 +8,11 @@
 [![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
 ![Profile views](https://gpvc.arturio.dev/kabartay)
 
+
 <!--
+
 **kabartay/kabartay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 🌱 I'm currently learning MIT MicroMaster: [Statistics and Data Science](https://micromasters.mit.edu/ds)
@@ -25,9 +25,15 @@ Here are some ideas to get you started:
 [![Ods.ai Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=odsai&logoColor=crimson&link=https://ods.ai/users/ae6a50f2c4fb)](https://ods.ai/users/ae6a50f2c4fb)
 -->
 
+
+
+
 - 📡 I'm Doctor of Philosophy in Astrophysics (Université de Strasbourg) 
 - 🔭 I'm currently working as a Data Scientist Engineer
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
 
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay)](https://github.com/anuraghazra/github-readme-stats)
+
+[![andrey-lukyanenko StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7302404)](https://stackoverflow.com/users/7302404/muha)

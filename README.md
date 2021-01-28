@@ -13,18 +13,52 @@
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
 
 
+#### My research and interests
+[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-3093-3456)
+[![](https://img.shields.io/badge/Scopus-informational?style=flat&logo=Publons&logoColor=white&color=E9711C)](https://www.scopus.com/authid/detail.uri?authorId=57194618351) 
+[![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=white&color=336699)](https://publons.com/researcher/2079516/mukharbek-organokov/) 
+[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en) 
+
+
 <!--
 TODO
 Google Scholar
-INSPIRE
-other resources
-StackOverflow badge too or squize image
+INSPIRE done, my own color selected by eye
+[![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=Publons&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
+StackOverflow badge 
 -->
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
 
+
+#### My favourite languages & tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=9558B2)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plusplus&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
+
+#### My favourite frameworks & tools  
+
+![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
+
+
+#### My favourite Python libs
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
+![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 
 
 <!--
@@ -45,4 +79,5 @@ Here are some ideas to get you started:
 Customizable Badge
 [![Medium Badge](https://img.shields.io/badge/@circassia_ai-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
 [![circassia_ai StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7302404)](https://stackoverflow.com/users/7302404/circassia_ai)
+Search colors here https://simpleicons.org/?q=r
 -->

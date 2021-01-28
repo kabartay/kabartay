@@ -19,8 +19,9 @@
 [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-3093-3456)
 [![](https://img.shields.io/badge/Scopus-informational?style=flat&logo=Publons&logoColor=white&color=E9711C)](https://www.scopus.com/authid/detail.uri?authorId=57194618351) 
 [![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=white&color=336699)](https://publons.com/researcher/2079516/mukharbek-organokov/) 
-[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en) 
 [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
+[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en) 
+
 
 <!--
 TODO
@@ -43,15 +44,15 @@ StackOverflow badge
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=9558B2)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c-plusplus&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
 #### My favourite frameworks & tools  
 
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
-![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
+![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
 

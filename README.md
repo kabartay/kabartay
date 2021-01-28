@@ -10,9 +10,11 @@
 
 
 #### About me  
-- 📡 I'm Doctor of Philosophy in Astrophysics (Université de Strasbourg) 
+- 📡 I'm Doctor of Philosophy in Astrophysics (Université de Strasbourg)
+- 📡 I'm Master of Science in High Energy Physics (École Polytechnique) 
 - 🔭 I'm currently working as a Data Scientist
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
+- 📫 How to reach me: by email organokov.m@gmail.com
 
 
 #### My research and interests

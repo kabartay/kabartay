@@ -8,6 +8,8 @@
 [![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
 ![Profile views](https://gpvc.arturio.dev/kabartay)
 
+
+#### About me  
 - 📡 I'm Doctor of Philosophy in Astrophysics (Université de Strasbourg) 
 - 🔭 I'm currently working as a Data Scientist
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)

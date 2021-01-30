@@ -27,7 +27,6 @@
 
 <!--
 TODO
-Google Scholar
 INSPIRE done, my own color selected by eye
 [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=Publons&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
 StackOverflow badge 
@@ -39,7 +38,6 @@ StackOverflow badge
 
 
 #### My favourite languages & tools
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
@@ -51,7 +49,6 @@ StackOverflow badge
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
 #### My favourite frameworks & tools  
-
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
 ![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)

@@ -30,6 +30,9 @@ TODO
 INSPIRE done, my own color selected by eye
 [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=Publons&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
 StackOverflow badge 
+DataCamp: https://www.datacamp.com/profile/kabartay
+EdX: https://profile.edx.org/u/muha07
+Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put more settings to Coursera first)
 -->
 
 

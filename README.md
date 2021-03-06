@@ -14,6 +14,7 @@
 - 📡 I'm Master of Science in High Energy Physics (École Polytechnique) 
 - 🔭 I'm currently working as a Data Scientist
 - 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
+- 🤓 I'm mentoring in Kaggle BIPOC Grant Program (2 mentees)
 - 📫 How to reach me: by email organokov.m@gmail.com
 
 

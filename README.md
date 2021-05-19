@@ -10,11 +10,11 @@
 
 
 #### About me  
-- 📡 Doctor of Philosophy in Astrophysics (Université de Strasbourg)
-- 📡 Master of Science in High Energy Physics (École Polytechnique) 
 - 🔭 Currently a Data Scientist
+- 📡 Doctor of Philosophy in Astrophysics (Université de Strasbourg, France)
+- 📡 Master of Science in High Energy Physics (École Polytechnique, France) 
 - 🤓 Co-facilitated Data Study Group (The Alan Turing Institute, UK)
-- 🤓 Co-mentored Machine Learning Crash Course (SPbSPU Polytech)
+- 🤓 Co-mentored Machine Learning Crash Course (SPbSPU Polytech, Russia)
 - 🤓 Mentored in Kaggle BIPOC Grant Program (2 mentees)
 - 📫 How to reach me: by email organokov.m@gmail.com
 

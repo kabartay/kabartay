@@ -39,7 +39,7 @@ Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put mo
 -->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
 
 
@@ -60,7 +60,6 @@ Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put mo
 ![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
-
 
 #### My favourite Python libs
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)

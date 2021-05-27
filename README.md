@@ -10,7 +10,7 @@
 
 
 #### About me  
-- 🔭 Currently a Data Scientist
+- 🔭 Data Scientist
 - 📡 Doctor of Philosophy in Astrophysics (Université de Strasbourg, France)
 - 📡 Master of Science in High Energy Physics (École Polytechnique, France) 
 - 🤓 Co-facilitated Data Study Group (The Alan Turing Institute, UK)

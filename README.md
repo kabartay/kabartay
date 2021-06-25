@@ -5,9 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)](https://github.com/kabartay)
 [![GitHub](https://img.shields.io/github/followers/kabartay?label=kabartay)](https://github.com/kabartay)
 [![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
-[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkabartay&count_bg=%2379C83D&title_bg=%23555555&icon=adblock.svg&icon_color=%2322B613&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)  
 ![Views](https://gpvc.arturio.dev/kabartay)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkabartay&count_bg=%2379C83D&title_bg=%23555555&icon=adblock.svg&icon_color=%2322B613&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 #### About me  

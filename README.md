@@ -3,11 +3,11 @@
 [![Linkedin: circassia](https://img.shields.io/badge/-Mukharbek%20Organokov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/circassia/)](https://www.linkedin.com/in/circassia/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)
 [![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)](https://github.com/kabartay)
-[![GitHub](https://img.shields.io/github/followers/kabartay?label=kabartay)](https://github.com/kabartay)
-[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
-[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)  
-![Views](https://gpvc.arturio.dev/kabartay)
+[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
+[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
+![Views](https://gpvc.arturio.dev/kabartay)  
 <!--
+[![GitHub](https://img.shields.io/github/followers/kabartay?label=kabartay)](https://github.com/kabartay)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkabartay&count_bg=%2379C83D&title_bg=%23555555&icon=adblock.svg&icon_color=%2322B613&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
@@ -26,8 +26,7 @@
 [![](https://img.shields.io/badge/Scopus-informational?style=flat&logo=scopus&logoColor=white&color=E9711C)](https://www.scopus.com/authid/detail.uri?authorId=57194618351) 
 [![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=white&color=336699)](https://publons.com/researcher/2079516/mukharbek-organokov/) 
 [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
-[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en) 
-
+[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en)
 
 <!--
 TODO

@@ -28,11 +28,9 @@
 [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
 [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en)
 
+
 <!--
 TODO
-INSPIRE done, my own color selected by eye
-[![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=Publons&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
-
 StackOverflow badge 
 DataCamp: https://www.datacamp.com/profile/kabartay
 EdX: https://profile.edx.org/u/muha07

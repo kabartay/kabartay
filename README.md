@@ -39,7 +39,9 @@ Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put mo
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
+<!--
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
+-->
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kabartay)](https://github.com/kabartay/github-profile-trophy)

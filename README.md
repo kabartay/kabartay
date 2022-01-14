@@ -28,23 +28,12 @@
 [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
 [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabartay&show_icons=true" alt="kabartay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=compact&hide=html" alt="kabartay" /></p>  
+&nbsp;  
 
-<!--
-TODO
-StackOverflow badge 
-DataCamp: https://www.datacamp.com/profile/kabartay
-EdX: https://profile.edx.org/u/muha07
-Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put more settings to Coursera first)
--->
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
-<!--
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
--->
-
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kabartay)](https://github.com/kabartay/github-profile-trophy)
+#### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabartay)](https://github.com/kabartay/github-profile-trophy)  
 
 
 #### My favourite OS & languages 
@@ -72,6 +61,19 @@ Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put mo
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
+
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
+-->  
+
+<!--
+TODO
+StackOverflow badge 
+DataCamp: https://www.datacamp.com/profile/kabartay
+EdX: https://profile.edx.org/u/muha07
+Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put more settings to Coursera first)
+-->  
 
 <!--
 **kabartay/kabartay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

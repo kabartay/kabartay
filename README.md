@@ -33,8 +33,8 @@
 &nbsp;  
 
 #### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=kabartay)](https://github.com/kabartay/github-profile-trophy)  
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabartay&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
+<!-- link: https://github.com/ryo-ma/github-profile-trophy -->
 
 #### My favourite OS & languages 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)

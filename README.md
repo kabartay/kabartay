@@ -29,8 +29,8 @@
 [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabartay&show_icons=true" alt="kabartay" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=compact&hide=html" alt="kabartay" /></p>
-&nbsp;  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=compact&hide=html" alt="kabartay" /></p>
+&nbsp;
 
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kabartay&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  

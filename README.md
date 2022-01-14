@@ -41,6 +41,9 @@ Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put mo
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
 
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabartay)](https://github.com/kabartay/github-profile-trophy)
+
 
 #### My favourite OS & languages 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)

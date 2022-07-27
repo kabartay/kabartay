@@ -28,13 +28,19 @@
 [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
 [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabartay&show_icons=true" alt="kabartay" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=compact&hide=html" alt="kabartay" /></p>
-&nbsp;
+#### Kaggle
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/discussion/light)
 
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kabartay&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
 <!-- link: https://github.com/ryo-ma/github-profile-trophy -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabartay&show_icons=true" alt="kabartay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=compact&hide=html" alt="kabartay" /></p>
+&nbsp;
 
 #### My favourite OS & languages 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)

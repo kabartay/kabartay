@@ -27,11 +27,13 @@
   * My favourite Python libraries: &#8202; &nbsp; &nbsp; ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458) ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243) ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6) 
   * My favourite tools & softs: &#8202; &#8202; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626) ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7) ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032) ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED) ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=326CE5) ![](https://img.shields.io/badge/Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400) ![](https://img.shields.io/badge/LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
+<!--
 #### Kaggle
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/discussion/light)
+-->
 
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kabartay&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  

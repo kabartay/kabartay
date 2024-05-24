@@ -40,11 +40,22 @@
 <!--
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kabartay&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
+-->
+
 <!-- link: https://github.com/ryo-ma/github-profile-trophy -->
 
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabartay&show_icons=true" alt="kabartay" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=compact&hide=html" alt="kabartay" /></p>
 &nbsp;
+-->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabartay&show_icons=true" alt="kabartay" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=pie&langs_count=5&hide=html,css,jupyter%20notebook" alt="kabartay" /></p>
+&nbsp;
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&langs_count=5)
 -->
 
 <!--

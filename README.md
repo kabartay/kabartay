@@ -1,10 +1,10 @@
 ### Hi, I'm Mukharbek 👋
 
-[![Linkedin: circassia](https://img.shields.io/badge/-Mukharbek%20Organokov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/circassia/)](https://www.linkedin.com/in/circassia/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)
-[![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)](https://github.com/kabartay)
-[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
-[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
+[![Linkedin: circassia](https://img.shields.io/badge/-Mukharbek%20Organokov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/circassia/)](https://www.linkedin.com/in/circassia/) 
+[![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)](https://github.com/kabartay) 
+[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai) 
+[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai) 
 <!--
 ![Views](https://gpvc.arturio.dev/kabartay)
 -->
@@ -37,6 +37,7 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/muhakabartay/discussion/light)
 -->
 
+<!--
 #### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kabartay&theme=onedark&row=1&column=7&title=Stars,Repositories,Commits,PullRequest,Issues,MultiLanguage,Followers)](https://github.com/kabartay/github-profile-trophy)  
 <!-- link: https://github.com/ryo-ma/github-profile-trophy -->
@@ -44,7 +45,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kabartay&show_icons=true" alt="kabartay" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&layout=compact&hide=html" alt="kabartay" /></p>
 &nbsp;
-
+-->
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  

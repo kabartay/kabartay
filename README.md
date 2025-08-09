@@ -15,12 +15,12 @@
 
 #### About me  
 > - 🔭 Machine Learning Engineer & MLOps
-> - 📡 Doctor of Philosophy in Astrophysics (Université de Strasbourg, France)
-> - 📡 Master of Science in High Energy Physics (École Polytechnique, France) 
-> - 🤓 Co-facilitated Data Study Group (The Alan Turing Institute, UK)
-> - 🤓 Co-mentored Machine Learning Crash Course (SPbSPU Polytech, Russia)
-> - 🤓 Mentored in Kaggle BIPOC Grant Program (2 mentees)
-> - 📫 How to reach me: by email organokov.m@gmail.com  
+> - 📡 PhD in Astrophysics @ Université de Strasbourg (France)
+> - 📡 MSc in High Energy Physics @ École Polytechnique (France) 
+> - 🤓 Co-facilitator in Data Study Group @ The Alan Turing Institute (UK)
+> - 🤓 Co-mentor in Machine Learning Crash Course @ SPbSPU Polytech (Russia)
+> - 🤓 Mentor in Kaggle BIPOC Grant Program (2 mentees)
+> - 📫 How to reach me: by email mukharbek.organokov@gmail.com  
 
 My skillset: 
   * Research: &#8202; &#8202; &#8202; &#8202; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=A6CE39&color=white)](https://orcid.org/0000-0002-3093-3456) [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=4285F4&color=white)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en) [![](https://img.shields.io/badge/Scopus-informational?style=flat&logo=scopus&logoColor=E9711C&color=white)](https://www.scopus.com/authid/detail.uri?authorId=57194618351) [![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=336699&color=white)](https://publons.com/researcher/2079516/mukharbek-organokov/) [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspire&logoColor=01E5FE&color=101727)](https://inspirehep.net/authors/1609916) 

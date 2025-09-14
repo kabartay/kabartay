@@ -14,14 +14,14 @@
 -->
 
 #### About me  
-> - 🔭 Machine Learning Engineer & MLOps
+> - 🌐 www.organokov.com
+> - 🔭 AI/ML & MLOps
 > - 📡 PhD in Astrophysics @ Université de Strasbourg (France)
 > - 📡 MSc in High Energy Physics @ École Polytechnique (France) 
-> - 🤓 Co-facilitator in Data Study Group @ The Alan Turing Institute (UK)
-> - 🤓 Co-mentor in Machine Learning Crash Course @ SPbSPU Polytech (Russia)
+> - 🤓 Facilitator in Data Study Group @ The Alan Turing Institute (UK)
+> - 🤓 Mentor in Machine Learning Crash Course @ SPbSPU Polytech (Russia)
 > - 🤓 Mentor in Kaggle BIPOC Grant Program (2 mentees)
-> - 🌐 Access portfolio webpage: www.organokov.com
-> - 📊 Leading Circassian DNA: www.circassiandna.com
+> - 📊 Leading Circassian DNA project: www.circassiandna.com
 > - 📫 How to reach out me: mukharbek.organokov@gmail.com  
 
 My skillset: 
